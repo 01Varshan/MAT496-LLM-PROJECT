@@ -1,0 +1,12 @@
+langchain
+langgraph
+langsmith
+faiss-cpu
+chromadb
+python-dotenv
+openai
+gradio
+pandas
+sentence-transformers
+tiktoken
+pydantic
